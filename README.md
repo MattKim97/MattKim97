@@ -9,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.linkedin.com/in/matthew-kim-9ba86a15a/
+  https://mattkim97.github.io/index.html
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
