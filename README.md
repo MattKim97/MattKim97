@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Matthew Kim! A software engineer with a previous background in biological research.
 
 <!--
 **MattKim97/MattKim97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
