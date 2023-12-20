@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.linkedin.com/in/matthew-kim-9ba86a15a/">My LinkedIn</a>
 <a href="https://mattkim97.github.io/index.html">My Portfolio Site</a>
+ <p>My Email: mattkim0797@gmail.com
+ </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
