@@ -7,16 +7,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  https://www.linkedin.com/in/matthew-kim-9ba86a15a/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
 <p align="left">
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  mattkim0797@gmail.com
 </p>
 
 <p alight ="left">
-  <a href="  https://mattkim97.github.io/index.html">My Portfolio Site</a>
+  <a href="https://mattkim97.github.io/index.html">My Portfolio Site</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
