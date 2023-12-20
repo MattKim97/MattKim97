@@ -5,14 +5,18 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **mattkim0797@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   https://www.linkedin.com/in/matthew-kim-9ba86a15a/
 </p>
 <p align="left">
-  https://mattkim97.github.io/index.html
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  mattkim0797@gmail.com
+</p>
+
+<p alight ="left">
+  <a href="  https://mattkim97.github.io/index.html">My Portfolio Site</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
@@ -36,8 +40,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  </p>
 
 
