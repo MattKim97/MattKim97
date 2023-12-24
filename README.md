@@ -8,7 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matthew-kim-9ba86a15a/">My LinkedIn</a>
-<a href="https://mattkim97.github.io/index.html">My Portfolio Site</a>
+</p>
+<p align="left">
+ <a href="https://mattkim97.github.io/index.html">My Portfolio Site</a>
+</p>
  <p>My Email: mattkim0797@gmail.com
  </p>
 </p>
