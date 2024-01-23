@@ -12,7 +12,7 @@
 <p align="left">
  <a href="https://mattkim97.github.io/index.html">My Portfolio Site</a>
 </p>
- <p>My Email: mattkim0797@gmail.com
+ <p>My Email: mattkim0797@gmail.com 
  </p>
 </p>
 
