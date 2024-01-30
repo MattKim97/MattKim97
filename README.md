@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **TypeScript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matthew-kim-9ba86a15a/">My LinkedIn</a>
 </p>
