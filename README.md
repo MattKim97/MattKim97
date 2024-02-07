@@ -3,7 +3,7 @@
  
 - 🔭 I’m currently working on **Frogsy**  
  
-- 🌱 I’m currently learning **TypeScript and MongoDB**
+- 🌱 I’m currently learning **TypeScript and MongoDB and GraphQL and Angular**
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
