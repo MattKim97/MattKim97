@@ -5,6 +5,8 @@
  
 - 🌱 I’m currently learning **TypeScript and and AngularJS**
 
+-  Wanting to learn MongoDB, Ruby, GraphQL, Rust, Golang
+
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matthew-kim-9ba86a15a/">My LinkedIn</a>
