@@ -3,9 +3,9 @@
  
 - 🔭 I’m currently working on **Frogsy**  
  
-- 🌱 I’m currently learning **TypeScript and AngularJS**
+- 🌱 I’m currently learning **TypeScript**
 
--  Wanting to learn MongoDB, Django, Ruby, GraphQL, Rust, Golang
+-  Wanting to learn MongoDB, Django, Ruby, GraphQL, Rust, Golang, AngularJS
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
