@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **TypeScript**
 
--  Wanting to learn MongoDB, Django, Ruby, GraphQL, Rust, Golang, AngularJS
+-  Wanting to learn MongoDB, Django, Ruby, Rust, Golang, AngularJS
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
