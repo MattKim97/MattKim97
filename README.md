@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **MongoDB**
 
--  Wanting to learn Django, Ruby, Rust, Golang, AngularJS
+-  Wanting to learn Django, Ruby, Golang, AngularJS
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
