@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **Django**
 
--  Wanting to learn MongoDB, Ruby, Golang, AngularJS, Next.js
+-  Wanting to learn MongoDB, Ruby, Golang, AngularJS, Next.js , Java, C++
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
