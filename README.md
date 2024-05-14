@@ -3,9 +3,9 @@
  
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 
--  Wanting to learn MongoDB, Ruby, Golang, AngularJS, Next.js , Java, C++
+-  Wanting to learn MongoDB, Ruby, Golang, AngularJS, Next.js , C++ , Django
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
