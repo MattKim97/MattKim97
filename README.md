@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **Java**
 
--  Wanting to learn MongoDB, Ruby, Golang, AngularJS, Next.js , C++ , Django
+-  Wanting to learn MongoDB, Ruby, Golang, AngularJS, Next.js , C++
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
@@ -40,6 +40,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  </p>
 
 
