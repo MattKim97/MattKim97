@@ -50,5 +50,3 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattKim97&show_icons=true&locale=en&layout=compact" alt="MattKim97" /></p>
