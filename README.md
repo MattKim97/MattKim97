@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JDBC framework**
 
--  Wanting to learn MongoDB, Ruby, Golang, AngularJS, Next.js , C++
+-  Interested in MongoDB, Ruby, Golang, AngularJS, Next.js , C++
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
