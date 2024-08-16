@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning **JDBC framework**
+- 🌱 I’m currently learning BootStrap
 
 -  Interested in MongoDB, Ruby, Golang, AngularJS, Next.js , C++
 
