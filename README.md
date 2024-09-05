@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning BootStrap
 
--  Interested in MongoDB, Ruby, Golang, AngularJS, C++
+-  Interested in Golang , C++
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
