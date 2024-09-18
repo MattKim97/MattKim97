@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning BootStrap
+- 🌱 I’m currently learning Jakarta EE
 
 -  Interested in Golang , C++
 
