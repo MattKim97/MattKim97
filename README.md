@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning Jakarta EE
 
--  Interested in Golang , C++
+-  Interested in C++
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
