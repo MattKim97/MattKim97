@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning Jakarta EE
+- 🌱 I’m currently learning DS&A
 
 -  Interested in C++
 
