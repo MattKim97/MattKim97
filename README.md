@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning DS&A
+- 🌱 I’m currently learning Ruby on Rails
 
 -  Interested in C++
 
