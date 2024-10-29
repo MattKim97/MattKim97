@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning LeetCode
 
--  Interested in C++
+-  Interested in C++, Ruby
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
