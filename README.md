@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **New Languages and Frameworks**  
  
-- 🌱 I’m currently learning LeetCode
+- 🌱 I’m currently learning Data Structures and Algorithims
 
 -  Interested in C++, Ruby
 
