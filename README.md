@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning Data Structures and Algorithims
 
--  Interested in C++, Ruby
+-  Interested in C++, Ruby, and Angular
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
