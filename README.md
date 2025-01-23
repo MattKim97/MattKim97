@@ -53,6 +53,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattKim97&show_icons=true&locale=en&layout=compact" alt="MattKim97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MattKim97&show_icons=true&locale=en" alt="MattKim97" /></p>
-
 
