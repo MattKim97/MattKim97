@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Dev10! 
  
-- 🌱 I’m currently learning Data Structures and Algorithims
+- 🌱 I’m currently learning AWS DVA-C02
 
 -  Interested in C++, Ruby
 
