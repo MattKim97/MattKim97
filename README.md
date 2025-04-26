@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning AWS DVA-C02
 
--  Interested in C++, Ruby
+-  Interested in C#, .Net Development, Vue, Golang, Ruby
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
