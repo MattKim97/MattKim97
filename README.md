@@ -54,5 +54,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattKim97&show_icons=true&locale=en&layout=compact" alt="MattKim97" /></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattKim97)](https://github.com/MattKim97/github-readme-stats)
