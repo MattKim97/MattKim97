@@ -12,17 +12,6 @@
 - 🤔 Interested in C#, .Net Development, Vue, and Ruby.
 
 - 📃 (AWS Certified) Developer Associate (DVA-C02)
-  
-<h3 align="left">Let's Connect!</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matthew-kim-9ba86a15a/">My LinkedIn</a>
-</p>
-<p align="left">
- <a href="https://mattkim97.github.io/">My Portfolio Site</a>
-</p>
- <p>My Email: mattkim0797@gmail.com 
- </p>
-</p>
 
 ### Connect with me!
 <div>
