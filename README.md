@@ -26,13 +26,14 @@
 
 
 
-
+<div align="center">
 <p align="center">
   <h3>My Langauges and Tools: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,aws,bootstrap,react,html,css,java,js,redux,express,flask,postgres,nodejs,spring,mysql&perline=8" />
   </a>
 </p>
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattKim97&show_icons=true&locale=en&layout=compact" alt="MattKim97" /></p>
