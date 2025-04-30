@@ -1,8 +1,12 @@
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Matthew+Kim;Full-stack+Software+Engineer" alt="FullStack SWE"/>
+</a>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31842369-979e-478b-a936-baf49de83063" alt="MemeGIF"/>
 </p>
-<h1 align="center">Hi there I'm Matthew Kim!</h1>
+
 <h4 align="left">I am a passionate software developer with a previous background in biological sciences research. I fell in love with coding due to the ability to solve puzzles and problems in many different ways, and that there is never a singular correct answer. I love solving puzzles and then comparing my solutions with others so that I can look at other solutions and what I might learn from them! I love working with both the front and back-end, and I believe that I can provide a myriad of different approaches to solving problems due to my previous backgrounds! </h4> 
 
 - 🏢 I’m currently working at Dev10! 
