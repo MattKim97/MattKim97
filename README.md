@@ -9,7 +9,7 @@
  
 - 🏫 I’m currently learning Golang and Java Studying!
 
-- 🤔 Interested in C#, .Net Development, Vue, and Ruby.
+- 🤔 Interested in C#, .Net Framework, Vue, and Ruby.
 
 - 📃 (AWS Certified) Developer Associate (DVA-C02)
 
