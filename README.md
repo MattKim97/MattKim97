@@ -7,7 +7,7 @@
 
 - 🏢 I’m currently working at Prudential Financial! 
  
-- 🏫 I’m currently learning Golang and Java Studying!
+- 🏫 I’m currently learning Cloud based architecture!
 
 - 🤔 Interested in C#, .Net Framework, Vue, and Ruby.
 
