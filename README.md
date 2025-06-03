@@ -9,7 +9,7 @@
  
 - 🏫 I’m currently learning Cloud based architecture!
 
-- 🤔 Interested in C#, .Net Framework, Vue, and Ruby.
+- 🤔 Interested in C#, .Net Framework, and Ruby.
 
 - 📃 (AWS Certified) Developer Associate (DVA-C02)
 
