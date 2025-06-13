@@ -11,7 +11,7 @@
 
 - 🤔 Interested in C#, .Net Framework, and Ruby.
 
-- 📃 (AWS Certified) Developer Associate (DVA-C02)
+- 📃 AWS Certified Developer Associate (DVA-C02)
 
 ### Connect with me!
 <div>
