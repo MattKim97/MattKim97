@@ -36,7 +36,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattKim97&show_icons=true&locale=en&layout=compact" alt="MattKim97" /></p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31842369-979e-478b-a936-baf49de83063" alt="MemeGIF"/>
