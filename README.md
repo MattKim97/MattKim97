@@ -7,9 +7,9 @@
 
 - 🏢 I’m currently a Software Engineer @ Prudential RS! 
  
-- 🏫 I’m currently learning Cloud based architecture!
+- 🏫 I’m currently learning Cloud based infrastructure for AI agents to release into Production!!
 
-- 🤔 Interested in C#, .Net Framework, and Ruby.
+- 🤔 Interested in AI/ML, AWS infrastructure and Serverless Cloud-based Architecture.
 
 - 📃 AWS Certified Developer Associate (DVA-C02)
 
